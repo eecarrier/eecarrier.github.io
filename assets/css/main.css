@@ -598,7 +598,7 @@ body {
   #sidebar,
   .home #sidebar {
     text-align: left;
-    width: 18rem; }
+    width: 22rem; }
     #sidebar > *:last-child,
     .home #sidebar > *:last-child {
       margin-bottom: 0; }
