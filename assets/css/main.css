@@ -598,7 +598,7 @@ body {
   #sidebar,
   .home #sidebar {
     text-align: left;
-    width: 18rem; }
+    width: 30rem; }
     #sidebar > *:last-child,
     .home #sidebar > *:last-child {
       margin-bottom: 0; }
@@ -606,9 +606,7 @@ body {
   #sidebar {
     position: fixed;
     bottom: 0;
-    left: 0;     
-    overflow-y: scroll;
-    top: 0;}
+    left: 0; }
     #sidebar .site-title {
       font-size: 3.25rem; }
       #sidebar .site-title .back-arrow {
